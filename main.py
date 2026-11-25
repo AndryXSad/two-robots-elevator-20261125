@@ -23,6 +23,8 @@ import os
 
 # The winning line (105 characters, one line, plain UTF-8 text).
 # Chosen by the local tournament in ../CANDIDATES.md (playoff record 4-0).
+# Verified byte-identical across two runs in a clean read-only dir:
+# sha256 51951eacbfb45741304bd17dc318d1d5c0405bb7d8daa49af877241a2a0fd02f.
 ENTRY = "I rehearsed this ride 47 times. 'Nice weather' was the best line I had, and there are no windows in here."
 
 
